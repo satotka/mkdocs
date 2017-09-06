@@ -24,5 +24,6 @@ $ docker run -it --rm -v $(pwd):/workdir satotka/mkdocs build
 ```
 
 - notice: needs mkdocs.yml at current directory.
+- notice: will be removed contanier after build.
 
 
